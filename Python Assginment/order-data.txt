@@ -1,0 +1,36 @@
+start
+JIAYI
+cetirizine
+10
+price:70MR T:700MR
+end
+start
+Ahmed
+chestal
+5
+price:12MR T:60MR
+end
+start
+Ahmed
+chestal
+4
+price:12MR T:48MR
+end
+start
+Salah
+Vicodin
+7
+price:100MR T:700MR
+end
+start
+fatima
+cetirizine
+7
+price:70MR T:490MR
+end
+start
+Edress
+cetirizine
+2
+price:70MR T:140MR
+end

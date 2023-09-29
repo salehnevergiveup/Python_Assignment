@@ -1,0 +1,17 @@
+start
+Vicodin
+20/12/2022
+RM100
+treating acute or chronic  
+start
+cetirizine
+20/12/2023
+RM70
+allergy
+end
+start
+chestal
+20/1/2023
+RM12
+for cough
+end
